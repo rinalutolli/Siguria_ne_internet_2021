@@ -5,7 +5,8 @@ Punim nga Gr:31 nga studentet:Elda Lamaxhema, Rina Lutolli, Vesa Qilerxhiu.
 
 Nen mentorimin e Prof. Arbnor Halili.
 
-Detyra::
+Detyra:
+
 Zhvillimi i aplikacionit qe mundeson leximin e te gjithe passwordeve te ruajtur te wifi-ve dhe vizuelizon
 kompleksitetin ne forme grafi duke marre parasysh disa kritere.
 
