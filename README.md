@@ -11,7 +11,6 @@ kompleksitetin ne forme grafi duke marre parasysh disa kritere.
 
 Pershkrimi i rezultateve:
 
-
 Ne kuader te kesaj detyre kemi zhvilluar nje aplikacion i cili ofron dy mundesi:
 1.Leximi i  te gjithe passwordeve te ruajtur ne pc e perdoruesit.
 2.Ne baze te perberjes se tyre kategorizon passwordet ne tri kategori dhe ne baze te tyre vizuelizon kompleksitetin ne forme grafi.
