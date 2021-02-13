@@ -22,4 +22,3 @@ Passwordet ndahen ne tri kategori:
   
 Aplikacioni eshte i lehte per tu perdorur,opsionet qe i ofron aplikacioni jane shume lehte te qasshme.
 Shembuj te ekzekutimit gjeni ne folderin:"Shembuj te ekzekutimit".
-  
